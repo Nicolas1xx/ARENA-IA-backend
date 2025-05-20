@@ -11,10 +11,8 @@
         "src": "/(.*)",
         "dest": "app.py"
       }
-    ],
-    "build": {
-      "env": {
-        "PIP_REQUIREMENTS": "requirements-prod.txt"
-      }
-    }
-}
+      
+    ]
+    
+  }
+  
